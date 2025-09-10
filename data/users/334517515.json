@@ -1,0 +1,17 @@
+{
+  "user_id": 334517515,
+  "username": null,
+  "first_name": null,
+  "last_name": null,
+  "created_at": "2025-08-28T15:30:06.075118",
+  "has_completed_test": true,
+  "last_test_date": "2025-08-28T15:30:06.075118",
+  "test_results": [],
+  "stats": {
+    "total_tests_taken": 0,
+    "average_score": 0.0,
+    "total_time_spent": 0.0,
+    "last_activity": "2025-08-28T15:30:06.075118"
+  },
+  "chat_history": []
+}

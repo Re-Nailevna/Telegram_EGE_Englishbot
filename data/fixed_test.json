@@ -1,0 +1,339 @@
+{
+  "test_name": "Пробный вариант ЕГЭ по английскому языку (уровень B1-B2)",
+  "total_questions": 25,
+  "time_estimate": "20-25 минут",
+  "sections": {
+    "grammar": 8,
+    "vocabulary": 8,
+    "reading": 4,
+    "writing": 2,
+    "essay": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "grammar",
+      "question": "By the time we arrived at the theatre, the performance ______.",
+      "options": [
+        "a) had already started",
+        "b) already started", 
+        "c) has already started",
+        "d) was already starting"
+      ],
+      "correct_answer": "a",
+      "explanation": "Past Perfect для действия, которое завершилось до другого действия в прошлом"
+    },
+    {
+      "id": 2,
+      "section": "grammar",
+      "question": "If I ______ more time, I would learn how to play the guitar.",
+      "options": [
+        "a) have",
+        "b) had",
+        "c) would have",
+        "d) have had"
+      ],
+      "correct_answer": "b",
+      "explanation": "Second Conditional: If + Past Simple, ... would + verb"
+    },
+    {
+      "id": 3,
+      "section": "grammar", 
+      "question": "Look at those clouds! It ______ rain. You should take an umbrella.",
+      "options": [
+        "a) is going to",
+        "b) will",
+        "c) shall", 
+        "d) might not"
+      ],
+      "correct_answer": "a",
+      "explanation": "Предсказание, основанное на очевидных признаках"
+    },
+    {
+      "id": 4,
+      "section": "grammar",
+      "question": "My phone ______ the whole day yesterday. I need to get a new battery.",
+      "options": [
+        "a) didn't use",
+        "b) hadn't used",
+        "c) wasn't working",
+        "d) didn’t work"
+      ],
+      "correct_answer": "c",
+      "explanation": "Past Continuous для действия в процессе в определенный момент в прошлом"
+    },
+    {
+      "id": 5,
+      "section": "grammar",
+      "question": "You ______ touch that wire! It's extremely dangerous.",
+      "options": [
+        "a) mustn't",
+        "b) needn't",
+        "c) wouldn't",
+        "d) might not"
+      ],
+      "correct_answer": "a",
+      "explanation": "Строгий запрет"
+    },
+    {
+      "id": 6,
+      "section": "grammar",
+      "question": "I ______ my homework yet. Can you give me another hour?",
+      "options": [
+        "a) don't finish",
+        "b) didn't finish",
+        "c) haven't finished",
+        "d) hadn't finished"
+      ],
+      "correct_answer": "c",
+      "explanation": "Present Perfect с наречием 'yet'"
+    },
+    {
+      "id": 7,
+      "section": "grammar",
+      "question": "She asked me where ______.",
+      "options": [
+        "a) did I live",
+        "b) I did live",
+        "c) I lived", 
+        "d) lived I"
+      ],
+      "correct_answer": "c",
+      "explanation": "В косвенной речи используется прямой порядок слов"
+    },
+    {
+      "id": 8,
+      "section": "grammar",
+      "question": "This time next week, we ______ on a beach in Spain.",
+      "options": [
+        "a) will lie",
+        "b) will be lying",
+        "c) are lying",
+        "d) will have lain"
+      ],
+      "correct_answer": "b",
+      "explanation": "Future Continuous для действия в процессе в определенный момент в будущем"
+    },
+    {
+      "id": 9,
+      "section": "vocabulary",
+      "question": "Could you ______ after my cat while I'm on holiday?",
+      "options": [
+        "a) look up",
+        "b) look for",
+        "c) look into",
+        "d) look after"
+      ],
+      "correct_answer": "d",
+      "explanation": "look after - ухаживать за"
+    },
+    {
+      "id": 10,
+      "section": "vocabulary",
+      "question": "The company made a ______ to reduce its carbon emissions by 2030.",
+      "options": [
+        "a) decision",
+        "b) solution", 
+        "c) problem",
+        "d) opinion"
+      ],
+      "correct_answer": "a",
+      "explanation": "Принять решение - make a decision, collocation"
+    },
+    {
+      "id": 11,
+      "section": "vocabulary",
+      "question": "The economic situation is very ______. Nobody knows what will happen next.",
+      "options": [
+        "a) predictable",
+        "b) uncertain",
+        "c) doubtful",
+        "d) insecure"
+      ],
+      "correct_answer": "b",
+      "explanation": "uncertain - неопределенный"
+    },
+    {
+      "id": 12,
+      "section": "vocabulary",
+      "question": "You need to be more ______-minded and consider other people's views.",
+      "options": [
+        "a) open",
+        "b) broad",
+        "c) wide",
+        "d) large"
+      ],
+      "correct_answer": "a",
+      "explanation": "open-minded - непредубежденный, идиома"
+    },
+    {
+      "id": 13,
+      "section": "vocabulary",
+      "question": "The ______ of the internet has changed the world forever.",
+      "options": [
+        "a) invention",
+        "b) discovery",
+        "c) inventing",
+        "d) discovering"
+      ],
+      "correct_answer": "a",
+      "explanation": "invention - изобретение"
+    },
+    {
+      "id": 14,
+      "section": "vocabulary",
+      "question": "After a long ______, they finally agreed to sign the contract.",
+      "options": [
+        "a) discussion",
+        "b) argument",
+        "c) quarrel",
+        "d) debate"
+      ],
+      "correct_answer": "a",
+      "explanation": "discussion - обсуждение, дискуссия"
+    },
+    {
+      "id": 15,
+      "section": "vocabulary",
+      "question": "I find it hard to ______ on my studies with all this noise.",
+      "options": [
+        "a) concentrate",
+        "b) attend",
+        "c) try",
+        "d) focus"
+      ],
+      "correct_answer": "a",
+      "explanation": "concentrate on - концентрироваться на, collocation"
+    },
+    {
+      "id": 16,
+      "section": "vocabulary",
+      "question": "The news was so shocking that it was hard to ______.",
+      "options": [
+        "a) believe",
+        "b) confess",
+        "c) assure",
+        "d) promise"
+      ],
+      "correct_answer": "a",
+      "explanation": "believe - верить, поверить"
+    },
+        {
+      "id": 17,
+      "section": "reading",
+      "question": "Прочитайте мини-текст и найдите для него лучший заголовок. The Louvre in Paris is the world's largest and most visited art museum. It is home to thousands of works of art, from ancient civilizations to the mid-19th century, including the famous Mona Lisa. Its glass pyramid entrance has become a modern icon of the city.",
+      "options": [
+        "a) A Landmark of Art and Culture",
+        "b) The History of European Painting",
+        "c) Engineering Modern City Landmarks",
+        "d) The Life of Leonardo da Vinci"
+      ],
+      "correct_answer": "a",
+      "explanation": "Заголовок отражает главную тему: музей как культурный и архитектурный символ."
+    },
+    {
+      "id": 18,
+      "section": "reading",
+      "question": "Прочитайте мини-текст и найдите для него лучший заголовок. A tornado is a violently rotating column of air that extends from a thunderstorm to the ground. The most extreme tornadoes can reach wind speeds of more than 300 miles per hour, causing incredible damage and uprooting trees. They are most common in the central United States.",
+      "options": [
+        "a) Understanding Climate Change",
+        "b) The Science Behind Destructive Winds",
+        "c) A Guide to Storm Chasing",
+        "d) How to Build a Storm Shelter"
+      ],
+      "correct_answer": "b",
+      "explanation": "Заголовок точно описывает научное объяснение явления, данного в тексте."
+    },
+    {
+      "id": 19,
+      "section": "reading",
+      "question": "Прочитайте мини-текст и найдите для него лучший заголовок. Coca-Cola was invented in 1886 by pharmacist John Pemberton in Atlanta, USA. It was initially intended as a patent medicine. The unique taste of the syrup was mixed with carbonated water by accident, and the drink quickly became a popular soda fountain beverage.",
+      "options": [
+        "a) The Rise of a Global Brand",
+        "b) The Invention of Carbonated Water",
+        "c) Health Benefits of Soda",
+        "d) Famous Pharmacists in History"
+      ],
+      "correct_answer": "a",
+      "explanation": "Заголовок охватывает суть текста: случайное создание и последующий успех напитка."
+    },
+    {
+      "id": 20,
+      "section": "reading",
+      "question": "Прочитайте мини-текст и найдите для него лучший заголовок. When starting your first job, it's crucial to be punctual, dress appropriately, and show a willingness to learn. Don't be afraid to ask questions, as it shows you are engaged. Building good relationships with your colleagues is also key to a positive work environment.",
+      "options": [
+        "a) How to Negotiate a Salary",
+        "b) Keys to a Successful Career Start",
+        "c) The History of Workplace Etiquette",
+        "d) Choosing the Right Career Path"
+      ],
+      "correct_answer": "b",
+      "explanation": "Заголовок обобщает все ключевые советы для успешного начала карьеры."
+    },
+    {
+      "id": 21,
+      "section": "writing",
+      "question": "You are writing an email to your English-speaking friend, Tom. How would you start your email?",
+      "options": [
+        "a) Dear Mr. Tom,",
+        "b) Hi Tom,",
+        "c) To whom it may concern,",
+        "d) Good morning, Sir"
+      ],
+      "correct_answer": "b",
+      "explanation": "Неформальное начало для друга"
+    },
+    {
+      "id": 22,
+      "section": "writing",
+      "question": "You are writing a formal letter of complaint to a hotel manager. What is the correct way to introduce the main problem?",
+      "options": [
+        "a) I'm writing to complain about the poor service I received.",
+        "b) I'm really angry about the terrible service at your hotel.",
+        "c) Hey, your service was awful.",
+        "d) I think you should know that some things weren't perfect."
+      ],
+      "correct_answer": "a",
+      "explanation": "Формальный и вежливый вариант"
+    },
+    {
+      "id": 23,
+      "section": "essay",
+      "question": "Complete the sentence: 'While some argue that uniforms suppress individuality, ______ they promote a sense of belonging.'",
+      "options": [
+        "a) for example",
+        "b) on the contrary",
+        "c) as a result",
+        "d) moreover"
+      ],
+      "correct_answer": "b",
+      "explanation": "«On the contrary» правильно противопоставляет аргументы."
+    },
+    {
+      "id": 24,
+      "section": "essay",
+      "question": "Choose the correct phrase: 'The government invested in renewables. ______, carbon emissions decreased.'",
+      "options": [
+        "a) However",
+        "b) Consequently",
+        "c) For instance",
+        "d) Similarly"
+      ],
+      "correct_answer": "b",
+      "explanation": "«Consequently» логично связывает причину и следствие."
+    },
+    {
+      "id": 25,
+      "section": "essay",
+      "question": "Complete the sentence: '______ the obvious benefits, there are significant drawbacks to consider.'",
+      "options": [
+        "a) Despite",
+        "b) Because of",
+        "c) In addition to",
+        "d) For example"
+      ],
+      "correct_answer": "a",
+      "explanation": "«Despite» правильно вводит уступку."
+    }
+  ]
+}
